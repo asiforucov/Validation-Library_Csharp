@@ -1,0 +1,17 @@
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\bin\Release\netcoreapp3.1\04.11.2021.exe
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\bin\Release\netcoreapp3.1\04.11.2021.deps.json
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\bin\Release\netcoreapp3.1\04.11.2021.runtimeconfig.json
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\bin\Release\netcoreapp3.1\04.11.2021.runtimeconfig.dev.json
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\bin\Release\netcoreapp3.1\04.11.2021.dll
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\bin\Release\netcoreapp3.1\04.11.2021.pdb
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\bin\Release\netcoreapp3.1\Validator.dll
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\bin\Release\netcoreapp3.1\Validator.pdb
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\obj\Release\netcoreapp3.1\04.11.2021.csproj.AssemblyReference.cache
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\obj\Release\netcoreapp3.1\04.11.2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\obj\Release\netcoreapp3.1\04.11.2021.AssemblyInfoInputs.cache
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\obj\Release\netcoreapp3.1\04.11.2021.AssemblyInfo.cs
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\obj\Release\netcoreapp3.1\04.11.2021.csproj.CoreCompileInputs.cache
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\obj\Release\netcoreapp3.1\04.11.2021.dll
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\obj\Release\netcoreapp3.1\04.11.2021.pdb
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\obj\Release\netcoreapp3.1\04.11.2021.genruntimeconfig.cache
+C:\Users\asifo\source\repos\04.11.2021\04.11.2021\obj\Release\netcoreapp3.1\04.11.2021.csproj.CopyComplete

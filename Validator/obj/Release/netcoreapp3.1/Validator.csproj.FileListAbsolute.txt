@@ -1,0 +1,10 @@
+C:\Users\asifo\source\repos\04.11.2021\Validator\bin\Release\netcoreapp3.1\Validator.deps.json
+C:\Users\asifo\source\repos\04.11.2021\Validator\bin\Release\netcoreapp3.1\Validator.dll
+C:\Users\asifo\source\repos\04.11.2021\Validator\bin\Release\netcoreapp3.1\Validator.pdb
+C:\Users\asifo\source\repos\04.11.2021\Validator\obj\Release\netcoreapp3.1\Validator.csproj.AssemblyReference.cache
+C:\Users\asifo\source\repos\04.11.2021\Validator\obj\Release\netcoreapp3.1\Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asifo\source\repos\04.11.2021\Validator\obj\Release\netcoreapp3.1\Validator.AssemblyInfoInputs.cache
+C:\Users\asifo\source\repos\04.11.2021\Validator\obj\Release\netcoreapp3.1\Validator.AssemblyInfo.cs
+C:\Users\asifo\source\repos\04.11.2021\Validator\obj\Release\netcoreapp3.1\Validator.csproj.CoreCompileInputs.cache
+C:\Users\asifo\source\repos\04.11.2021\Validator\obj\Release\netcoreapp3.1\Validator.dll
+C:\Users\asifo\source\repos\04.11.2021\Validator\obj\Release\netcoreapp3.1\Validator.pdb
